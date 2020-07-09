@@ -1,3 +1,5 @@
 import * as fs from "fsx";
 
-function processFolder(folderName: string) {}
+function processFolder(folderName: string) {
+    // test
+}
