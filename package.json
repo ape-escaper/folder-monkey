@@ -1,0 +1,23 @@
+{
+    "name": "@escaping.apes/folder-monkey",
+    "version": "1.0.0",
+    "description": "Monkeys with folders",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ape-escaper/folder-monkey.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ape-escaper/folder-monkey/issues"
+    },
+    "homepage": "https://github.com/ape-escaper/folder-monkey#readme",
+    "dependencies": {
+        "fsx": "^1.0.2"
+    },
+    "devDependencies": {}
+}
