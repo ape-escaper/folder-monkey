@@ -1,5 +1,7 @@
 import * as fs from "fsx";
 
 function processFolder(folderName: string) {
-    // test
+    console.log("Folder has been monkied.");
 }
+
+processFolder("");

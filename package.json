@@ -2,9 +2,12 @@
     "name": "@escaping.apes/folder-monkey",
     "version": "1.0.0",
     "description": "Monkeys with folders",
-    "main": "index.js",
+    "main": "folder-monkey.ts",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "start": "ts-node"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
     },
     "repository": {
         "type": "git",
