@@ -1,6 +1,6 @@
 {
     "name": "@ape-escaper/folder-monkey",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Monkeys with folders",
     "main": "folder-monkey.ts",
     "scripts": {
