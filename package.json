@@ -1,5 +1,5 @@
 {
-    "name": "@escaping.apes/folder-monkey",
+    "name": "@ape-escaper/folder-monkey",
     "version": "1.0.1",
     "description": "Monkeys with folders",
     "main": "folder-monkey.ts",
